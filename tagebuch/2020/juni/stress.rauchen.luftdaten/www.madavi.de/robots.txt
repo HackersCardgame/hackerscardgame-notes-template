@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /sensor/data/
-Disallow: /sensor/data_csv/
-Disallow: /sensor/images/
-

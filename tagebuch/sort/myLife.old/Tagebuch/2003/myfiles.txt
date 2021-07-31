@@ -1,2 +1,0 @@
-./myfiles.txt
-./Wordcount.txt

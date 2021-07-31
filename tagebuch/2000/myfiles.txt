@@ -1,4 +1,0 @@
-./canferari.txt
-./soundrüümli.txt
-./myfiles.txt
-./Wordcount.txt

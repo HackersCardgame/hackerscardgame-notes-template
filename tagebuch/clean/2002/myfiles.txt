@@ -1,6 +1,0 @@
-./besuchBeiNoelBlum.txt
-./myfiles.txt
-./Februar/030202.txt
-./sonjaStoeklin.txt
-./Nachtrag.txt
-./Wordcount.txt

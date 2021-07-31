@@ -1,5 +1,0 @@
-feed:https://www.google.com/history/lookup?hl=de&num=500&output=rss
-
-https://marc.jun.landolt:www.google.com/history/lookup?hl=de&num=500&output=rss
-
-

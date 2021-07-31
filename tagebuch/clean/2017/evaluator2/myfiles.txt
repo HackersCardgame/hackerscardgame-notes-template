@@ -1,2 +1,0 @@
-../losts.txt
-../eval2/losts.txt

@@ -1,2 +1,0 @@
-      1 myfilestxt
-      1 wordcounttxt

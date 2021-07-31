@@ -1,4 +1,0 @@
-as it should be:
-
-the olders should calculate and prevent, that a unsolvable problem arised.
-

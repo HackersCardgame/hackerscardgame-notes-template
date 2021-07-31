@@ -1,5 +1,0 @@
-ist
-soll
-diff
-patch
-
